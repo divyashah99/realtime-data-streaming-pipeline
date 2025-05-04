@@ -17,6 +17,12 @@ The pipeline is designed with scalability in mind, using industry-standard tools
 
 This architecture follows modern data engineering principles, allowing for horizontal scaling, fault tolerance, and real-time data processing. It can be adapted for various use cases such as user analytics, real-time dashboards, or as a foundation for more complex data pipelines.
 
+## Video Demonstration
+
+[![Real-Time Data Streaming Pipeline Demo]](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
+*Click the image above to watch the demonstration video*
+
 ## Architecture
 
 ![Architecture Diagram](architecture_diagram.png)
