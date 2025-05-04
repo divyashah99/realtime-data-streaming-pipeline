@@ -29,10 +29,6 @@ This architecture follows modern data engineering principles, allowing for horiz
 
 *Click on the architecture diagram above to watch the full demonstration video*
 
-## Architecture
-
-![Architecture Diagram](architecture_diagram.png)
-
 ## Components
 
 - **Apache Airflow**: Orchestrates the data pipeline and schedules API data fetching
