@@ -2,6 +2,21 @@
 
 A scalable data pipeline that streams user data from a public API through Kafka, processes it with Spark, and stores it in Cassandra, all orchestrated with Airflow.
 
+## Project Overview
+
+This project demonstrates a complete end-to-end data engineering pipeline that processes streaming data in real-time. It fetches random user profiles from a public API, streams them through a messaging system, processes the data, and stores it in a NoSQL database.
+
+The pipeline is designed with scalability in mind, using industry-standard tools for each component:
+
+- **Data Source**: Random user data is fetched from the [RandomUser API](https://randomuser.me/api/)
+- **Orchestration**: Apache Airflow schedules and monitors the data fetching process
+- **Messaging**: Apache Kafka handles the streaming data with fault tolerance
+- **Processing**: Apache Spark performs real-time stream processing
+- **Storage**: Apache Cassandra provides a distributed NoSQL database for the processed data
+- **Deployment**: Docker containers ensure consistent environments and easy deployment
+
+This architecture follows modern data engineering principles, allowing for horizontal scaling, fault tolerance, and real-time data processing. It can be adapted for various use cases such as user analytics, real-time dashboards, or as a foundation for more complex data pipelines.
+
 ## Architecture
 
 ![Architecture Diagram](architecture_diagram.png)
