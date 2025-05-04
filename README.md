@@ -19,9 +19,7 @@ This architecture follows modern data engineering principles, allowing for horiz
 
 ## Video Demonstration
 
-[![Real-Time Data Streaming Pipeline Demo]](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
-
-*Click the image above to watch the demonstration video*
+[![Real-Time Data Streaming Pipeline Demo]](https://github.com/divyashah99/realtime-data-streaming-pipeline/blob/master/video-demo/FinalDemo.mp4)
 
 ## Architecture
 
