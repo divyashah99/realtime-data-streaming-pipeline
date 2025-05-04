@@ -19,9 +19,15 @@ This architecture follows modern data engineering principles, allowing for horiz
 
 ## Video Demonstration
 
-[![Real-Time Data Streaming Pipeline Demo](architecture_diagram.png)](https://drive.google.com/file/d/1xvgcvl4OhEiMhB2kPpeX6XaVq1rKPd75/view?usp=sharing)
+<div align="center">
+  <a href="https://drive.google.com/file/d/1xvgcvl4OhEiMhB2kPpeX6XaVq1rKPd75/view?usp=sharing" target="_blank">
+    <img src="architecture_diagram.png" alt="Real-Time Data Streaming Pipeline Demo" width="600">
+    <br>
+    <img src="https://img.shields.io/badge/▶️-Watch%20Demo%20Video-4285F4?style=for-the-badge&logo=google-drive" alt="Watch Demo">
+  </a>
+</div>
 
-*Click the image above to watch the demonstration video*
+*Click on the architecture diagram above to watch the full demonstration video*
 
 ## Architecture
 
